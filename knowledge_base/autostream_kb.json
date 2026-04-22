@@ -1,0 +1,68 @@
+{
+  "company": "AutoStream",
+  "description": "AutoStream is a SaaS platform that provides automated video editing tools for content creators. It uses AI to streamline video production, add captions, enhance quality, and save hours of manual editing work.",
+  "plans": [
+    {
+      "name": "Basic Plan",
+      "price": "$29/month",
+      "price_monthly": 29,
+      "features": [
+        "10 videos per month",
+        "720p resolution output",
+        "Basic auto-cut and trim tools",
+        "Standard templates",
+        "Email support"
+      ]
+    },
+    {
+      "name": "Pro Plan",
+      "price": "$79/month",
+      "price_monthly": 79,
+      "features": [
+        "Unlimited videos per month",
+        "4K resolution output",
+        "AI-generated captions",
+        "Advanced AI editing tools",
+        "Priority 24/7 support",
+        "Custom branding",
+        "Team collaboration (up to 3 seats)"
+      ]
+    }
+  ],
+  "policies": [
+    {
+      "topic": "Refund Policy",
+      "detail": "No refunds are provided after 7 days from the date of purchase. Within the first 7 days, users may request a full refund."
+    },
+    {
+      "topic": "Support",
+      "detail": "24/7 live support is available exclusively on the Pro plan. Basic plan users have access to email support with a 1-2 business day response time."
+    },
+    {
+      "topic": "Cancellation",
+      "detail": "Users can cancel their subscription at any time. Access continues until the end of the current billing period."
+    },
+    {
+      "topic": "Trial",
+      "detail": "AutoStream offers a 7-day free trial on the Pro plan. No credit card required to start the trial."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What video formats does AutoStream support?",
+      "answer": "AutoStream supports MP4, MOV, AVI, MKV, and WebM formats for both input and output."
+    },
+    {
+      "question": "Can I upgrade or downgrade my plan?",
+      "answer": "Yes, you can upgrade or downgrade your plan at any time. Changes take effect from the next billing cycle."
+    },
+    {
+      "question": "Is AutoStream suitable for YouTube creators?",
+      "answer": "Absolutely! AutoStream is specifically designed for YouTube, Instagram Reels, TikTok, and other content creator platforms. The Pro plan's AI captions and 4K export are especially popular among YouTubers."
+    },
+    {
+      "question": "Does AutoStream work on mobile?",
+      "answer": "AutoStream has a web app that works on mobile browsers, and native iOS and Android apps are currently in beta."
+    }
+  ]
+}
