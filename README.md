@@ -64,9 +64,10 @@ export GROQ_API_KEY=sk-ant-your-key-here
 python agent.py
 ```
 
-### Example session
+### Demo Session
 ```
-!(Example session Output)(output.png)
+![Demo session Output](output.png)
+
 You: Hi there!
 Agent: Hey! Welcome to AutoStream 👋 I'm Alex. How can I help you today?
 
