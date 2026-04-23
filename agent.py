@@ -14,7 +14,8 @@ import os
 import re
 from typing import Annotated, Literal, Optional
 from typing_extensions import TypedDict
-
+from dotenv import load_dotenv
+load_dotenv()
 from langchain_groq import ChatGroq
 from langchain_core.messages import AIMessage, HumanMessage, SystemMessage
 from langchain_core.tools import tool
