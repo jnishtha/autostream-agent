@@ -66,9 +66,7 @@ python agent.py
 
 ### Example session
 ```
-<img width="1579" height="846" alt="output" src="https://github.com/user-attachments/assets/6dc24a7c-9bdd-43e8-be69-1281302ecb17" />
-
-
+!(Example session)(output.png)
 You: Hi there!
 Agent: Hey! Welcome to AutoStream 👋 I'm Alex. How can I help you today?
 
