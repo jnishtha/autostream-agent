@@ -66,7 +66,7 @@ python agent.py
 
 ### Demo Session
 ```
-![Demo session Output](output.png)
+![Demo session](output.png)
 
 You: Hi there!
 Agent: Hey! Welcome to AutoStream 👋 I'm Alex. How can I help you today?
