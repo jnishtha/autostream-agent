@@ -50,11 +50,7 @@ pip install -r requirements.txt
 
 ### 4. Set your API key
 
-The agent uses **Groq** via the Groq API.
-
-```bash
-export GROQ_API_KEY=sk-ant-your-key-here
-```
+Create a `.env` file in the project folder:
 
 > Get your key at: https://console.groq.com/
 
@@ -65,35 +61,10 @@ python agent.py
 ```
 
 ### Demo Session
-```
 ![Demo session output](output.png)
-
-You: Hi there!
-Agent: Hey! Welcome to AutoStream 👋 I'm Alex. How can I help you today?
-
-You: What plans do you offer?
-Agent: We have two plans:
-  • Basic — $29/month: 10 videos/month, 720p output
-  • Pro — $79/month: Unlimited videos, 4K, AI captions, 24/7 support
-
-You: The Pro plan sounds perfect for my YouTube channel, I'd like to sign up!
-Agent: That's awesome! Let's get you started. What's your full name?
-
-You: Jane Doe
-Agent: Great, Jane! What's your email address?
-
-You: jane@example.com
-Agent: Perfect! Which platform do you primarily create for (YouTube, Instagram, TikTok, etc.)?
-
-You: YouTube
-✅ Lead captured successfully: Jane Doe, jane@example.com, YouTube
-
-Agent: 🎉 You're all set, Jane Doe! Our team will reach out to jane@example.com shortly...
-```
-
 ---
 
-## Architecture Explanation (~200 words)
+## Architecture Explanation 
 
 ### Why LangGraph?
 
