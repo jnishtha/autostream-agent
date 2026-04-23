@@ -53,7 +53,7 @@ pip install -r requirements.txt
 The agent uses **Groq** via the Groq API.
 
 ```bash
-export ANTHROPIC_API_KEY=sk-ant-your-key-here
+export GROQ_API_KEY=sk-ant-your-key-here
 ```
 
 > Get your key at: https://console.groq.com/
@@ -66,7 +66,8 @@ python agent.py
 
 ### Example session
 ```
-!(Example session)(output.png)
+<img width="1579" height="846" alt="output" src="https://github.com/user-attachments/assets/a3fe7467-89a1-4dee-bbcb-7811486fdb86" />
+
 You: Hi there!
 Agent: Hey! Welcome to AutoStream 👋 I'm Alex. How can I help you today?
 
