@@ -65,7 +65,7 @@ python agent.py
 ```
 
 ### Example session
-
+output.png
 ```
 You: Hi there!
 Agent: Hey! Welcome to AutoStream 👋 I'm Alex. How can I help you today?
